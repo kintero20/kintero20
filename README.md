@@ -11,7 +11,7 @@ Soy un profesional apasionado por la tecnología, el desarrollo de sistemas y la
 ---
 
 ### 💻 Stack Tecnológico y Habilidades
-* **Lenguajes y Desarrollo:** Python, JavaScript, HTML5, CSS3 (Flexbox), PHP, SQL.
+* **Lenguajes y Desarrollo:** JavaScript, HTML5, CSS3 (Flexbox), PHP, SQL.
 * **Sistemas y Servidores:** Linux, Windows Server, Administración de dominios, DNS, cPanel/WHM (Planeta FATLA).
 * **Ciberseguridad:** Fundamentos de Pentesting e Informática Forense.
 * **Educación y EdTech:** Metodología PACIE, Moodle, Google Workspace for Education, Robótica Educativa (Juez Oficial WRO 2024).
