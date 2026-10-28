@@ -20,16 +20,19 @@ Soy un profesional apasionado por la tecnología, el desarrollo de sistemas y la
 ---
 
 ### 📂 Proyectos Destacados
-* **[Nombre del Sistema / Proyecto]** – Breve descripción de lo que hace (ej. *Sistema de gestión escolar para la E.B.N. Mariara* desarrollado con PHP y MySQL).
-* **[Automatización o Script en Python]** – Herramientas orientadas al procesamiento de datos o soporte técnico operativo.
-
+* **Sistema de Gestón Escolar** – «Sistema web de gestión académica y administrativa escolar bajo arquitectura MVC+S, patrones DAO y RBAC en PHP 8.3 y MariaDB.»
+* php8, mariadb, mvc, bootstrap5, sistema-escolar, venezuela, uptv.
+* **SBEUP: Sistema Biométrico de Emergencia y Ubicación de Personas en contingencias sismológicas**. Desarrollado con FastAPI, InsightFace (ArcFace 512-d), SQLModel y PWA Offline-first.
+* fastapi, python3, insightface, biometrics, facial-recognition, pwa, offline-first, pgvector, sqlmodel, contingency, venezuela.
 ---
 
 ### 🛠️ Certificaciones y Acreditaciones Clave
 * **Juez Oficial World Robot Olympiad (WRO 2024)** – FUNDESTEAM.
-* **Experto en Educación Virtual & Metodología PACIE** – Planeta FATLA (Calificación 100/100).
+* **Formación en Educación Virtual** – Planeta FATLA (Calificación 100/100).
 * **Pentester e Informática Forense** – CIIL Lazarus / Universidad de Carabobo.
+* **Tesista en Ingeniería en Informática** - U.P.T.VAL.
 * **Profesor en la Especialidad de Informática** – UPEL (I.M.P.M).
+* **Tecnico Superior Universitario en Informática** - I.U.T.VAL.
 
 ---
 
