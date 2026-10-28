@@ -26,7 +26,7 @@ Soy un profesional apasionado por la tecnología, el desarrollo de sistemas y la
 
 ### 🛠️ Certificaciones y Acreditaciones Clave
 * **Juez Oficial World Robot Olympiad (WRO 2024)** – FUNDESTEAM.
-* **Formación en Educación Virtual** – Planeta FATLA (Calificación 100/100).
+* **Formación en Educación Virtual** – Planeta FATLA.
 * **Pentester e Informática Forense** – CIIL Lazarus / Universidad de Carabobo.
 * **Tesista en Ingeniería en Informática** - U.P.T.VAL.
 * **Profesor en la Especialidad de Informática** – UPEL (I.M.P.M).
