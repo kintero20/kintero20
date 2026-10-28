@@ -21,9 +21,7 @@ Soy un profesional apasionado por la tecnología, el desarrollo de sistemas y la
 
 ### 📂 Proyectos Destacados
 * **Sistema de Gestón Escolar** – *Sistema web de gestión académica y administrativa escolar bajo arquitectura MVC+S, patrones DAO y RBAC en PHP 8.3 y MariaDB.*
-* php8, mariadb, mvc, bootstrap5, sistema-escolar, venezuela, uptv.
 * **SBEUP: Sistema Biométrico de Emergencia y Ubicación de Personas en contingencias sismológicas**. *Desarrollado con FastAPI, InsightFace (ArcFace 512-d), SQLModel y PWA Offline-first.*
-* fastapi, python3, insightface, biometrics, facial-recognition, pwa, offline-first, pgvector, sqlmodel, contingency, venezuela.
 ---
 
 ### 🛠️ Certificaciones y Acreditaciones Clave
